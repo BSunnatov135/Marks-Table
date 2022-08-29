@@ -1,0 +1,12 @@
+body {
+    background-color: aliceblue;
+}
+table {
+    width: 75%;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+table, th, td {
+    border: 3px solid black;
+    border-collapse: collapse;
+}
